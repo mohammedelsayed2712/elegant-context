@@ -1,0 +1,3 @@
+used:-
+- contextAPI
+- UseReducer()
